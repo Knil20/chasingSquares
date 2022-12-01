@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chasingSquares", "chasingSquares\chasingSquares.csproj", "{5489496F-9E4D-4841-8243-5C1CD4C521EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5489496F-9E4D-4841-8243-5C1CD4C521EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5489496F-9E4D-4841-8243-5C1CD4C521EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5489496F-9E4D-4841-8243-5C1CD4C521EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5489496F-9E4D-4841-8243-5C1CD4C521EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A1652D3-602B-46C9-A797-A8A2351BDC72}
+	EndGlobalSection
+EndGlobal
